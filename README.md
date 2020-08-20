@@ -6,4 +6,4 @@ The server was created using [SwiftNIO](https://github.com/apple/swift-nio).
 
 You can read the article explaining the command-line tool, here:
 
-[Understanding SwiftNIO by building a text modification server](https://rderik.com/blog/2020-08-20-understanding-swiftnio-by-building-a-text-modification-server)
+[Understanding SwiftNIO by building a text modifying server](https://rderik.com/blog/2020-08-20-understanding-swiftnio-by-building-a-text-modifying-server)
