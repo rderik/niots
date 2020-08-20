@@ -2,7 +2,7 @@
 
 A Server application built using SwiftNIO. `niots` works as an echo server, but modifies the text before sending it back to the client.
 
-The tool was created using [SwiftNIO](https://github.com/apple/swift-nio).
+The server was created using [SwiftNIO](https://github.com/apple/swift-nio).
 
 You can read the article explaining the command-line tool, here:
 
