@@ -7,3 +7,12 @@ The server was created using [SwiftNIO](https://github.com/apple/swift-nio).
 You can read the article explaining the command-line tool, here:
 
 [Understanding SwiftNIO by building a text modifying server](https://rderik.com/blog/2020-08-20-understanding-swiftnio-by-building-a-text-modifying-server)
+You can also get the "macOS network programming in Swift" guide. It includes more topics on building network applications on macOS, including:
+
++ BSD Sockets in Swift
++ Apple's Network.framework
++ SwiftNIO
+
+You can get it from the following link:
+
+[rderik.com - Guides](https://rderik.com/guides/)
